@@ -1,0 +1,298 @@
+/****************************************/
+
+1
+donner le fait
+a
+/****************************************/
+1 - Ajouter un fait initial.
+2 - Ajouter une regle.
+3 - Afficher la liste des faits initiaux.
+4 - Afficher la liste des regles.
+5 - Appliquer le chainage avant.
+6 - Quiter.
+/****************************************/
+
+1
+donner le fait
+b
+/****************************************/
+1 - Ajouter un fait initial.
+2 - Ajouter une regle.
+3 - Afficher la liste des faits initiaux.
+4 - Afficher la liste des regles.
+5 - Appliquer le chainage avant.
+6 - Quiter.
+/****************************************/
+
+1
+donner le fait
+c
+/****************************************/
+1 - Ajouter un fait initial.
+2 - Ajouter une regle.
+3 - Afficher la liste des faits initiaux.
+4 - Afficher la liste des regles.
+5 - Appliquer le chainage avant.
+6 - Quiter.
+/****************************************/
+
+1
+donner le fait
+d
+/****************************************/
+1 - Ajouter un fait initial.
+2 - Ajouter une regle.
+3 - Afficher la liste des faits initiaux.
+4 - Afficher la liste des regles.
+5 - Appliquer le chainage avant.
+6 - Quiter.
+/****************************************/
+
+1
+donner le fait
+e
+/****************************************/
+1 - Ajouter un fait initial.
+2 - Ajouter une regle.
+3 - Afficher la liste des faits initiaux.
+4 - Afficher la liste des regles.
+5 - Appliquer le chainage avant.
+6 - Quiter.
+/****************************************/
+
+3
+(1-a)
+(2-b)
+(3-c)
+(4-d)
+(5-e)
+
+
+/****************************************/
+1 - Ajouter un fait initial.
+2 - Ajouter une regle.
+3 - Afficher la liste des faits initiaux.
+4 - Afficher la liste des regles.
+5 - Appliquer le chainage avant.
+6 - Quiter.
+/****************************************/
+
+2
+donner le mon de la regle :
+A
+Voulez vous ajouter un fait initail ? (0/1)
+1
+Donnez le nbr du fait
+3
+Voulez vous ajouter un fait initail ? (0/1)
+0
+Voulez vous ajouter une conclusion ? (0/1)
+1
+Donnez le nbr du fait (conclusion)
+6
+donner le fait : f
+Voulez vous ajouter une conclusion ? (0/1)
+0
+/****************************************/
+1 - Ajouter un fait initial.
+2 - Ajouter une regle.
+3 - Afficher la liste des faits initiaux.
+4 - Afficher la liste des regles.
+5 - Appliquer le chainage avant.
+6 - Quiter.
+/****************************************/
+
+2
+donner le mon de la regle :
+B
+Voulez vous ajouter un fait initail ? (0/1)
+1
+Donnez le nbr du fait
+1
+Voulez vous ajouter un fait initail ? (0/1)
+1
+Donnez le nbr du fait
+7
+donner le fait : g
+Voulez vous ajouter un fait initail ? (0/1)
+1
+Donnez le nbr du fait
+8
+donner le fait : h
+Voulez vous ajouter un fait initail ? (0/1)
+0
+Voulez vous ajouter une conclusion ? (0/1)
+1
+Donnez le nbr du fait (conclusion)
+9
+donner le fait : i
+Voulez vous ajouter une conclusion ? (0/1)
+0
+/****************************************/
+1 - Ajouter un fait initial.
+2 - Ajouter une regle.
+3 - Afficher la liste des faits initiaux.
+4 - Afficher la liste des regles.
+5 - Appliquer le chainage avant.
+6 - Quiter.
+/****************************************/
+
+2
+donner le mon de la regle :
+C
+Voulez vous ajouter un fait initail ? (0/1)
+1
+Donnez le nbr du fait
+5
+Voulez vous ajouter un fait initail ? (0/1)
+1
+Donnez le nbr du fait
+10
+donner le fait : j
+Voulez vous ajouter un fait initail ? (0/1)
+0
+Voulez vous ajouter une conclusion ? (0/1)
+1
+Donnez le nbr du fait (conclusion)
+11
+donner le fait : k
+Voulez vous ajouter une conclusion ? (0/1)
+0
+/****************************************/
+1 - Ajouter un fait initial.
+2 - Ajouter une regle.
+3 - Afficher la liste des faits initiaux.
+4 - Afficher la liste des regles.
+5 - Appliquer le chainage avant.
+6 - Quiter.
+/****************************************/
+
+2
+donner le mon de la regle :
+D
+Voulez vous ajouter un fait initail ? (0/1)
+1
+Donnez le nbr du fait
+1
+Voulez vous ajouter un fait initail ? (0/1)
+1
+Donnez le nbr du fait
+2
+Voulez vous ajouter un fait initail ? (0/1)
+0
+Voulez vous ajouter une conclusion ? (0/1)
+1
+Donnez le nbr du fait (conclusion)
+10
+donner le fait : j
+Voulez vous ajouter une conclusion ? (0/1)
+0
+/****************************************/
+1 - Ajouter un fait initial.
+2 - Ajouter une regle.
+3 - Afficher la liste des faits initiaux.
+4 - Afficher la liste des regles.
+5 - Appliquer le chainage avant.
+6 - Quiter.
+/****************************************/
+
+3
+(1-a)
+(2-b)
+(3-c)
+(4-d)
+(5-e)
+
+
+/****************************************/
+1 - Ajouter un fait initial.
+2 - Ajouter une regle.
+3 - Afficher la liste des faits initiaux.
+4 - Afficher la liste des regles.
+5 - Appliquer le chainage avant.
+6 - Quiter.
+/****************************************/
+
+4
+*********la regele A ******
+La liste des faits initiaux :
+(3-c)
+
+
+La liste des conclusions :
+(6-f)
+
+
+****************************
+*********la regele B ******
+La liste des faits initiaux :
+(1-a)
+(7-g)
+(8-h)
+
+
+La liste des conclusions :
+(9-i)
+
+
+****************************
+*********la regele C ******
+La liste des faits initiaux :
+(5-e)
+(10-j)
+
+
+La liste des conclusions :
+(11-k)
+
+
+****************************
+*********la regele D ******
+La liste des faits initiaux :
+(1-a)
+(2-b)
+
+
+La liste des conclusions :
+(10-j)
+
+
+****************************
+/****************************************/
+1 - Ajouter un fait initial.
+2 - Ajouter une regle.
+3 - Afficher la liste des faits initiaux.
+4 - Afficher la liste des regles.
+5 - Appliquer le chainage avant.
+6 - Quiter.
+/****************************************/
+
+5
+/****************************************/
+1 - Ajouter un fait initial.
+2 - Ajouter une regle.
+3 - Afficher la liste des faits initiaux.
+4 - Afficher la liste des regles.
+5 - Appliquer le chainage avant.
+6 - Quiter.
+/****************************************/
+
+3
+(1-a)
+(2-b)
+(3-c)
+(4-d)
+(5-e)
+(6-f)
+(10-j)
+(11-k)
+
+
+/****************************************/
+1 - Ajouter un fait initial.
+2 - Ajouter une regle.
+3 - Afficher la liste des faits initiaux.
+4 - Afficher la liste des regles.
+5 - Appliquer le chainage avant.
+6 - Quiter.
+/****************************************/
